@@ -2,7 +2,7 @@
 ---------------------------
 ### XenoJetBench Benchmark Version 2.0 (beta)
 
-(c) Copyright 2016 -- Arsalan Shahid & Yasir Qadri <br/>
+(c) Copyright 2016 -- Arsalan Shahid & Muhammad Yasir Qadri <br/>
 (arsalan.shahid @ ucdconnect.ie, yasirqadri @ acm.org) <br/>
 
 ### BACKGROUND
