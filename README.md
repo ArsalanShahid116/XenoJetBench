@@ -10,10 +10,15 @@
 Information on JetBench and XenoJetBench Benchmark, can be found <br/>
 in the following publications: <br/>
   
-[1]	M. Y. Qadri, D. Matichard, and K. D. M. Maier, "JetBench: An <br/>
+M. Y. Qadri, D. Matichard, and K. D. M. Maier, "JetBench: An <br/>
 Open Source Real-time Multiprocessor Benchmark," in ARCS 2010 <br/>
 Architecture of Computing Systems, Hannover, Germany, 2010. <br/>
-    
+
+Shahid, A., Qadri, M. Y., Nawaz, N., & Ahmed, J. (2016, August). <br/>
+XenoJetBench: An open source hard-real-time multiprocessor <br/>
+benchmark. In Intelligent and Advanced Systems (ICIAS), 2016 <br/>
+6th International Conference on (pp. 1-6). IEEE. <br/>
+
 ### INSTALLATION
 
 This benchmark is completely designed to run on linux. Because of <br/>
@@ -181,4 +186,20 @@ caracteristics in this order:<br/>
 	45<Throtle<90 \B0 (angle)<br/>
 	time>0 sec<br/>
 
+### License
+------------
+The programs in this project are free software; you can redistribute <br />
+it and/or modify it under the terms of the GNU General Public License <br />
+as published by the Free Software Foundation; either version 2 of the <br />
+License, or (at your option) any later version. This program is <br />
+distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;<br />
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR <br />
+A PARTICULAR PURPOSE. See the GNU General Public License for more <br />
+details. You should have received a copy of the GNU General Public <br /> 
+License along with this program; if not, write to the Free Software <br />
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA. <br />
+
+### NOTE
+--------
+This software depends on other packages that may be licensed under different open source licenses.
 
