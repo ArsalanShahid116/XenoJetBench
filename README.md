@@ -12,7 +12,7 @@ in the following publications: <br/>
   
 [1]	M. Y. Qadri, D. Matichard, and K. D. M. Maier, "JetBench: An <br/>
 Open Source Real-time Multiprocessor Benchmark," in ARCS 2010 <br/>
-- Architecture of Computing Systems, Hannover, Germany, 2010. <br/>
+Architecture of Computing Systems, Hannover, Germany, 2010. <br/>
     
 ### INSTALLATION
 
