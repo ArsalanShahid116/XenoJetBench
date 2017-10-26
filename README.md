@@ -58,7 +58,9 @@ Following sample shows successful compilation:
 		3-Turbofan 
 
 shell$ source run.sh
-	
+
+### Sample Output
+
 	The default engine is set to be 1 (Turbojet) while running XenoJetBench. 
 	You can change it from 'run.sh' file. Below is a sample result file that 
         will be generated while benchmark execution. 
