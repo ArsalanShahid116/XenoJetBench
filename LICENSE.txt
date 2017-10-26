@@ -1,0 +1,56 @@
+                    		LICENSE
+                       Version 2.0 (beta), 2016
+Copyright (c) 2015-2016, 
+Department of Electrical Engineering
+HITEC University, Taxila, Islamabad, Pakistan
+and 
+School of Computer Science and Electronic Engineering
+University of Essex, CO4 3SQ, UK 
+All rights reserved.
+
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+The XenoJetBench Benchmark is licensed as citation-ware. It means that 
+you can use XenoJetBench Benchmark freely, but if you publish research
+results for which you used XenoJetBench Benchmark, it would be greatly 
+appreciated if you would cite the following papers:
+
+
+Shahid, A., Qadri, M. Y., Nawaz, N., & Ahmed, J. (2016, August). 
+XenoJetBench: An open source hard-real-time multiprocessor 
+benchmark. In Intelligent and Advanced Systems (ICIAS), 2016 
+6th International Conference on (pp. 1-6). IEEE. 
+
+M. Y. Qadri, D. Matichard, and K. D. M. Maier, 
+"JetBench: An Open Source Real-time Multiprocessor Benchmark," 
+in ARCS 2010 - Architecture of Computing Systems, Hannover, 
+Germany, 2010.
+
+
+Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+Neither the name of the HITEC University, Taxila, Pakistan or 
+University of Essex, UK or the names of its contributors may be 
+used to endorse or promote products derived from this software 
+without specific prior 
+written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
