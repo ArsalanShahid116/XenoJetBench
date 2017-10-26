@@ -61,7 +61,7 @@ shell$ source run.sh
 	
 	The default engine is set to be 1 (Turbojet) while running XenoJetBench. 
 	You can change it from 'run.sh' file. Below is a sample result file that 
-  will be generated while benchmark execution. 
+        will be generated while benchmark execution. 
 
 ============================================== <br/>
 
@@ -152,8 +152,9 @@ T,ExecTime,  Spd| Alt |  Thr| Mach|Press| Temp| Fnet|Fgros|RamDr|FlFlo|TSFC|Airf
 
 ==> Ending XenoJetBench Execution <br/>
 
-    XenoJetBench Successfully Terminated <br/>
-    -------------------------------------<br/>
+XenoJetBench Successfully Terminated <br/>
+-------------------------------------<br/>
+
 ==> Results<br/>
     Total execution time is : 0.314242 with 0 missed deadline<br/>
     Which represents 28.3% of<br/>
@@ -169,13 +170,13 @@ Press ctrl+C to EXIT XenoJetBench <br/>
  
 ========================================================<br/>
 
-	Make sure the folder contains the file "input.txt". If it is missing <br/>
-	you will have a segmentation fault. This file contains profile <br/>
-	caracteristics in this order:<br/>
-		Speed Altitude Throtle Deadline_time<br/>
-			0<Speed<1500 mph<br/>
-			0<Altitude<50000 ft<br/>
-			45<Throtle<90 \B0 (angle)<br/>
-			time>0 sec<br/>
+Make sure the folder contains the file "input.txt". If it is missing <br/>
+you will have a segmentation fault. This file contains profile <br/>
+caracteristics in this order:<br/>
+        Speed Altitude Throtle Deadline_time<br/>
+	0<Speed<1500 mph<br/>
+	0<Altitude<50000 ft<br/>
+	45<Throtle<90 \B0 (angle)<br/>
+	time>0 sec<br/>
 
 
