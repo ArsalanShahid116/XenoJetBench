@@ -28,11 +28,11 @@ system. XenoJetBench requires Installation of Xenomai API on linux. <br/>
 
 ### How to compile XenoJetBench?
 
-  To compile XenoJetBench benchmark, you need the OpenMp library <omp.h>.
-	It is supported by the gcc compiler since the version 4.2. 
-	Moreover as previously mentioned you would need Xenomai patched 
-	with linux kernel as it is hard-real-time programming framework. 
-	To compile it first install 'make' package on your linux version using: 
+To compile XenoJetBench benchmark, you need the OpenMp library <omp.h>. <br/>
+It is supported by the gcc compiler since the version 4.2. <br/>
+Moreover as previously mentioned you would need Xenomai patched <br/>
+with linux kernel as it is hard-real-time programming framework. <br/>
+To compile it first install 'make' package on your linux version using: <br/> 
 		
 shell$ sudo apt-get install make <br/>
 shell$ make <br/>
